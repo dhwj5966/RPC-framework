@@ -1,0 +1,1 @@
+netty=github.starry.remoting.transport.netty.client.NettyRpcClient

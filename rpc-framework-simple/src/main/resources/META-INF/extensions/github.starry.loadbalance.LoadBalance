@@ -1,0 +1,1 @@
+loadBalance=github.starry.loadbalance.loadbalancer.PollLoadBalance
