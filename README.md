@@ -22,6 +22,14 @@ public interface HelloService {
     String sayHello(String name);
 }
 ```
+生产者和消费者都需要依赖打包的项目。
+```shell
+<dependency>
+    <artifactId>rpc-framework-simple</artifactId>
+    <groupId>com.starry</groupId>
+    <version>1.0-SNAPSHOT</version>
+</dependency>
+```
 
 
 5.生产者的启动。
